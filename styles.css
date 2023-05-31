@@ -47,11 +47,13 @@ button {
 	border: 1px solid gray;
 }
 
-.footer {
-	width: 100%;
-	font-weight: bold;
-	font-size: 24px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+footer {
+	text-align: center;
+	color: blanchedalmond;
+}
+
+footer a {
+	font-family: Courier;
+	text-decoration: none;
+	color: inherit;
 }
